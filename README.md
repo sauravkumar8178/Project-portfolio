@@ -4,16 +4,16 @@ Full responsive personal protfolio website, Responsive for all devices, built us
  <br>
  <a href="https://sauravkumar8178.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
-### Demo Screeshots
+## Demo Screeshots
 
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+## Run Locally
 
 To run **Portfolio** locally, run this command on your git bash:
 
