@@ -20,11 +20,11 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git@github.com:sauravkumar8178/Portfolio.git
+sudo git@github.com:sauravkumar8178/Project-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone git@github.com:sauravkumar8178/Portfolio.git
+git clone git@github.com:sauravkumar8178/Project-portfolio.git
 ```
