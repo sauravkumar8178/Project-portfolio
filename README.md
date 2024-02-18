@@ -4,9 +4,6 @@ Full responsive personal protfolio website, Responsive for all devices, built us
  <br>
  <a href="https://sauravkumar8178.github.io/Project-portfolio/"><strong>➥ Live Demo</strong></a>
 
-## Demo Screeshots
-
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
